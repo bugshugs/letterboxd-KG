@@ -1,0 +1,6 @@
+candidate_id,candidate_title,year,cos,meta,final,seed,comp_genres,comp_keywords,comp_cast,comp_director,comp_runtime,comp_language,comp_popularity,comp_vote
+1924,Superman,1978.0,0.4339,0.4685,0.4477,Black Panther,1.0,0.1304,0.0,0.0,0.956,1.0,0.9456,0.9457
+841,Dune,1984.0,0.3683,0.4558,0.4033,Star Wars: Episode I - The Phantom Menace,1.0,0.0625,0.0,0.0,0.9994,1.0,0.9569,0.909
+10730,King Kong,1976.0,0.3074,0.4265,0.355,King Kong,1.0,0.08,0.0,0.0,0.6065,1.0,0.9334,0.6692
+262606,Talkback,1987.0,0.3445,0.3612,0.3512,Aftersun,1.0,0.04,0.0,0.0,0.21,1.0,0.8545,0.0
+929,Godzilla,1998.0,0.1888,0.524,0.3229,The Day After Tomorrow,0.75,0.0189,0.0,1.0,0.8825,1.0,0.9986,0.7732

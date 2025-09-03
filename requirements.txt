@@ -2,3 +2,6 @@ pandas~=2.2.3
 requests~=2.32.3
 python-dotenv~=1.1.0
 selenium~=4.34.2
+torch
+pykeen
+# todo specify versions

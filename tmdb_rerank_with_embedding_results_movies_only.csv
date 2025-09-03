@@ -1,6 +1,0 @@
-candidate_id,candidate_title,year,cos,meta,final,seed,comp_genres,comp_keywords,comp_cast,comp_director,comp_runtime,comp_language,comp_popularity,comp_vote
-278927,The Jungle Book,2016.0,0.4462,0.4142,0.4334,The Lion King,1.0,0.0,0.0,0.0,0.8517,1.0,0.7804,0.6515
-4412,Les Misérables,1958.0,0.369,0.398,0.3806,It's Only the End of the World,1.0,0.0,0.0,0.0,0.0011,1.0,0.9712,0.9872
-4415,Les Misérables,1998.0,0.369,0.3912,0.3779,Little Women,0.75,0.087,0.0,0.0,0.9994,1.0,0.8963,0.8312
-1366,Rocky,1976.0,0.2784,0.4477,0.3461,The Greatest Showman,1.0,0.0323,0.0,0.0,0.8825,1.0,0.9691,0.9725
-1924,Superman,1978.0,0.214,0.4704,0.3166,Black Panther,1.0,0.1304,0.0,0.0,0.956,1.0,0.9849,0.9455
