@@ -4,4 +4,5 @@ python-dotenv~=1.1.0
 selenium~=4.34.2
 torch
 pykeen
-# todo specify versions
+pyDatalog
+# todo specify versions, see if this works correct
