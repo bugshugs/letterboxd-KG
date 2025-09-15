@@ -1,0 +1,16 @@
+name: letterboxd-kg
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy>=2.0
+  - pandas>=2.2
+  - pytorch>=2.3
+  - cpuonly
+  - pyg>=2.5
+  - pip:
+      - notebook
+      - matplotlib
